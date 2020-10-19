@@ -9,7 +9,7 @@
 
 编译方法
 
-    安装完依赖后直接运行图片华容道中的main.py
+    安装完依赖requirement.txt后直接运行图片华容道中的main.py
     main.py 整个游戏项目
     
 使用方法
